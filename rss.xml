@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Prototype grid.io website for James Kracht.]]></title>
-        <description><![CDATA[Prototype grid.io website for James Kracht.]]></description>
+        <title><![CDATA[Welcome to Weird.Agency]]></title>
+        <description><![CDATA[Welcome to Weird.Agency]]></description>
         <link>http://weird.agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 21:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 22:01:14 GMT</lastBuildDate>
         <atom:link href="http://weird.agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello world. This is Weird.Agency.</p>]]></description>
+            <link>http://weird.agency/hello-world-this-is-weirdagency/index.html</link>
+            <guid isPermaLink="false">fed23254-44cf-47cd-bb6c-70856b1e8418</guid>
+            <pubDate>Fri, 17 Jun 2016 22:01:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This will be the third post, otherwise known as #3.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>http://weird.agency/this-is-post-2/index.html</link>
             <guid isPermaLink="false">eb2f9ff1-7b77-4791-a2b0-3678fefd38f1</guid>
             <pubDate>Fri, 17 Jun 2016 21:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello world. This is Weird.Agency.</p>]]></description>
-            <link>http://weird.agency/hello-world-this-is-weirdagency/index.html</link>
-            <guid isPermaLink="false">fed23254-44cf-47cd-bb6c-70856b1e8418</guid>
-            <pubDate>Fri, 17 Jun 2016 21:46:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
