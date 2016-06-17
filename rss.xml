@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Prototype website for James Kracht.]]></title>
+        <description><![CDATA[Prototype website for James Kracht.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 21:35:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello world. This is Weird.Agency.</p>]]></description>
+            <link>undefinedhello-world-this-is-weirdagency/index.html</link>
+            <guid isPermaLink="false">fed23254-44cf-47cd-bb6c-70856b1e8418</guid>
+            <pubDate>Fri, 17 Jun 2016 21:35:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
