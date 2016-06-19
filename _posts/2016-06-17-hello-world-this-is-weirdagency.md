@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Hello world. This is Weird.Agency.
-datePublished: '2016-06-17T22:01:13.704Z'
-dateModified: '2016-06-17T21:46:32.395Z'
+description: Hello world. This is Weird.Agency. This is the first post.
+datePublished: '2016-06-19T03:44:18.649Z'
+dateModified: '2016-06-17T22:01:19.754Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-hello-world-this-is-weirdagency.md
@@ -17,4 +17,4 @@ url: hello-world-this-is-weirdagency/index.html
 _type: Article
 
 ---
-Hello world. This is Weird.Agency.
+Hello world. This is Weird.Agency. This is the first post.
