@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Test.
-datePublished: '2016-06-20T23:46:59.080Z'
-dateModified: '2016-06-20T23:46:54.854Z'
+datePublished: '2016-06-20T23:47:40.931Z'
+dateModified: '2016-06-20T23:47:24.287Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-19-wwwdistancetojupitercom-wwwd2jdesigncom.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: wwwdistancetojupitercom-wwwd2jdesigncom/index.html
 _type: Article
 
