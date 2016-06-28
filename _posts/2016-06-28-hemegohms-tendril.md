@@ -23,8 +23,8 @@ description: >-
   disillusioned Zealtor of the World Order on the planet Tigris IV, agrees to
   take on a mysterious new client—a man with a strangely familiar name, a
   missing past, and an enticing proposal.
-datePublished: '2016-06-28T01:59:20.645Z'
-dateModified: '2016-06-28T01:59:11.703Z'
+datePublished: '2016-06-28T02:00:23.257Z'
+dateModified: '2016-06-28T02:00:20.370Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-hemegohms-tendril.md
