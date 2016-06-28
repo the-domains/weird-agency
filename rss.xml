@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to Weird.Agency]]></description>
         <link>http://weird.agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 01:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 01:37:49 GMT</lastBuildDate>
         <atom:link href="http://weird.agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://weird.agency/welcome-to-weirdagency/index.html</link>
             <guid isPermaLink="false">8514269f-e2ff-44b2-bcd1-8a3ae8c29c9d</guid>
             <pubDate>Tue, 28 Jun 2016 01:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acdd746-4857-4fdf-85e4-9f004ec992c6.png">]]></description>
+            <link>http://weird.agency/hemegohms-tendril/index.html</link>
+            <guid isPermaLink="false">08f4f925-2559-42ec-9db4-da083ce62461</guid>
+            <pubDate>Tue, 28 Jun 2016 01:37:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>http://weird.agency/distance-to-jupiter/index.html</link>
             <guid isPermaLink="false">1d5ce712-213b-46a4-9a28-24d90fe881a2</guid>
             <pubDate>Tue, 28 Jun 2016 01:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e12e1582-de6e-4c95-9112-4f29bf92f6d2.png">]]></description>
-            <link>http://weird.agency/hemegohms-tendril/index.html</link>
-            <guid isPermaLink="false">08f4f925-2559-42ec-9db4-da083ce62461</guid>
-            <pubDate>Tue, 28 Jun 2016 01:25:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
