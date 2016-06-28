@@ -23,8 +23,8 @@ description: >-
   of the World Order on the planet Tigris IV, agrees to take on a mysterious new
   client—a man with a strangely familiar name, a missing past, and an enticing
   proposal.
-datePublished: '2016-06-28T01:37:47.522Z'
-dateModified: '2016-06-28T01:37:43.013Z'
+datePublished: '2016-06-28T01:46:12.237Z'
+dateModified: '2016-06-28T01:45:50.953Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-hemegohms-tendril.md
@@ -40,4 +40,4 @@ _Hemegohm's Tendril_ - Illustrated by the author, this triptych of science ficti
 "Great sequel... answers some lingering questions and offers new ones to ponder!" (USA)
 
 "Nice stories, I enjoy your writing style... after reading this I have a very strong urge to smoke a bowl. And I gave that stuff up years ago!" (USA)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acdd746-4857-4fdf-85e4-9f004ec992c6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25f8fde6-aeba-4727-b05d-92a49a0aed46.jpg)
