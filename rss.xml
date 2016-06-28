@@ -4,8 +4,15 @@
         <description><![CDATA[Welcome to Weird.Agency]]></description>
         <link>http://weird.agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 01:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 01:25:37 GMT</lastBuildDate>
         <atom:link href="http://weird.agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5fd7699-fcf4-4e6d-b339-4403f2c75767.png">]]></description>
+            <link>http://weird.agency/the-rise-and-fall-of-shimmerism/index.html</link>
+            <guid isPermaLink="false">596a3422-ad0f-463f-b616-c9f778614303</guid>
+            <pubDate>Tue, 28 Jun 2016 01:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e12e1582-de6e-4c95-9112-4f29bf92f6d2.png">]]></description>
