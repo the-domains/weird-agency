@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to Weird.Agency]]></description>
         <link>http://weird.agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 17:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 17:23:24 GMT</lastBuildDate>
         <atom:link href="http://weird.agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Tue, 28 Jun 2016 17:22:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hemegohm's Tendril (2012)]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a5b9efa-ee58-4b20-a5fb-1b2863981a67.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d380fb0-8888-4282-81ec-c758aa44c949.jpg</link>
-            <guid isPermaLink="false">495a7007-7925-4ffe-8320-563889ec61e7</guid>
-            <pubDate>Tue, 28 Jun 2016 17:23:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Rise and Fall of Shimmerism (2004)]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c164d47a-5c78-4b7f-9cf6-dcf82a17c129.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c164d47a-5c78-4b7f-9cf6-dcf82a17c129.jpg</link>
             <guid isPermaLink="false">c6e3fff7-93cd-4d28-9274-264f911f02ca</guid>
             <pubDate>Tue, 28 Jun 2016 17:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hemegohm's Tendril (2012)]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d380fb0-8888-4282-81ec-c758aa44c949.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d380fb0-8888-4282-81ec-c758aa44c949.jpg</link>
+            <guid isPermaLink="false">495a7007-7925-4ffe-8320-563889ec61e7</guid>
+            <pubDate>Tue, 28 Jun 2016 16:29:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
