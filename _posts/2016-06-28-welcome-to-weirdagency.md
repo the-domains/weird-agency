@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A repository for a variety of weird outputs.
-datePublished: '2016-06-28T17:22:50.419Z'
-dateModified: '2016-06-28T17:22:36.484Z'
+datePublished: '2016-06-28T17:23:54.008Z'
+dateModified: '2016-06-28T17:22:57.806Z'
 title: ''
 author:
   - name: James Kracht
