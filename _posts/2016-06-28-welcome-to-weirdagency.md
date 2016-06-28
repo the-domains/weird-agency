@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A strange repository for a variety of outputs.
-datePublished: '2016-06-28T02:08:02.196Z'
-dateModified: '2016-06-28T02:07:26.006Z'
+datePublished: '2016-06-28T17:10:31.531Z'
+dateModified: '2016-06-28T17:10:30.835Z'
 title: ''
-author: []
+author:
+  - name: James Kracht
+    url: weird.agency
 sourcePath: _posts/2016-06-28-welcome-to-weirdagency.md
 authors: []
 publisher: null
@@ -18,4 +20,4 @@ _type: Article
 
 ---
 A strange repository for a variety of outputs.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b164939d-3123-47d0-89ef-587cfe24e2bc.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e6d41c-8af6-4864-8d8c-008ba727dfd7.jpg)
