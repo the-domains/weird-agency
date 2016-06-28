@@ -19,8 +19,8 @@ description: >-
   human consciousness. The parabolic odyssey that unfolds is rife with danger.
   From the depths of an alien desert to the very gates of human perception—and
   beyond—Simon Shadow must find a way out!
-datePublished: '2016-06-28T01:44:17.311Z'
-dateModified: '2016-06-28T01:44:00.047Z'
+datePublished: '2016-06-28T01:46:35.289Z'
+dateModified: '2016-06-28T01:46:24.199Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-the-rise-and-fall-of-shimmerism.md
