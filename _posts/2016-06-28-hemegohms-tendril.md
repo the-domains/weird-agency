@@ -23,8 +23,8 @@ description: >-
   of the World Order on the planet Tigris IV, agrees to take on a mysterious new
   client—a man with a strangely familiar name, a missing past, and an enticing
   proposal.
-datePublished: '2016-06-28T01:46:12.237Z'
-dateModified: '2016-06-28T01:45:50.953Z'
+datePublished: '2016-06-28T01:47:57.453Z'
+dateModified: '2016-06-28T01:47:06.774Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-hemegohms-tendril.md
