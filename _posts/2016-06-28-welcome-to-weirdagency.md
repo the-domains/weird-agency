@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Weird.Agency
-datePublished: '2016-06-28T01:16:51.982Z'
-dateModified: '2016-06-28T01:16:29.132Z'
+datePublished: '2016-06-28T01:25:47.405Z'
+dateModified: '2016-06-28T01:25:29.256Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-28-welcome-to-weirdagency.md
+starred: true
 url: welcome-to-weirdagency/index.html
 _type: Article
 
