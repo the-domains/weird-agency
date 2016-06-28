@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: The Rise and Fall of Shimmerism (2004)
-datePublished: '2016-06-28T16:23:49.396Z'
-dateModified: '2016-06-28T02:08:55.239Z'
+datePublished: '2016-06-28T17:08:25.113Z'
+dateModified: '2016-06-28T17:07:59.888Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-the-rise-and-fall-of-shimmerism.md
