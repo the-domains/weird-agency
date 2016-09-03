@@ -1,20 +1,4 @@
-name: weird.agency
-favicon: null
-layout_spectrum: 0.29032
 typography_spectrum: 0
-title: Welcome to Weird.Agency
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,20 @@ color:
   lightness: 0.125
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.29032
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: weird.agency
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Weird.Agency
 purpose: []
